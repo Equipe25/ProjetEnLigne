@@ -12,7 +12,6 @@ import amzevent.Domaine.Util.Vector2F;
 import java.util.ArrayList;
 import javax.swing.ListModel;
 
-// test
 public class LarmanController {
     private Salle salle;
     private Scene scene;
