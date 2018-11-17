@@ -13,7 +13,6 @@ import java.util.ArrayList;
 import javax.swing.ListModel;
 
 
-/// test commite
 
 public class LarmanController {
     private Salle salle;
